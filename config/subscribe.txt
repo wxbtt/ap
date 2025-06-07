@@ -1,13 +1,16 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
 
-https://raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
-https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
+https://raw.githubusercontent.com/HXL660909/iptv-api/master/output/user_result.txt
+https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/bbxx_lite.txt
+https://raw.githubusercontent.com/lem85930/LiteTV/main/litelive.txt
+https://raw.githubusercontent.com/n3rddd/CTVLive//main/litelive.txt
+https://raw.githubusercontent.com/alantang1977/girl/master/tv/iptv4.txt
+https://raw.githubusercontent.com/alantang1977/JunTV/refs/heads/main/output/result.txt
+https://raw.githubusercontent.com/alantang1977/SuperMAN/refs/heads/main/output/result.m3u
+https://raw.githubusercontent.com/alantang1977/iptv_api/refs/heads/main/output/live_ipv4.m3u
+https://raw.githubusercontent.com/alantang1977/jtv/refs/heads/main/%E7%BD%91%E7%BB%9C%E6%94%B6%E9%9B%86.txt
+https://raw.githubusercontent.com/wcb1969/iptv/refs/heads/main/TV2025
+https://raw.githubusercontent.com/frxz751113/IPTVzb1/refs/heads/main/%E7%BD%91%E7%BB%9C%E6%94%B6%E9%9B%86.txt
 https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
 https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt
-https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/l.txt
-https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/kk.txt
-https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
-https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
-https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
