@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-06-20 19:08:06,url
+2025-06-21 07:16:49,http://stream.thmz.com/wxtv2/sd/live.m3u8?zjiangsd#http://stream.thmz.com/wxtv2/playlist.m3u8?_upt=5ff4061f1706166872#http://stream.thmz.com/wxtv2/playlist.m3u8#http://stream.thmz.com/wxtv2/sd/live.m3u8?_upt=acffe97a1704940314
 
 央视频道,#genre#
 
@@ -28,6 +28,7 @@
 体育专区,#genre#
 
 电影频道,#genre#
+无锡娱乐,http://stream.thmz.com/wxtv2/sd/live.m3u8?zjiangsd#http://stream.thmz.com/wxtv2/playlist.m3u8?_upt=5ff4061f1706166872#http://stream.thmz.com/wxtv2/playlist.m3u8#http://stream.thmz.com/wxtv2/sd/live.m3u8?_upt=acffe97a1704940314
 
 NewTV频道,#genre#
 
