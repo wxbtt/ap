@@ -3,6 +3,9 @@
 深圳卫视4K,http://106.53.99.30/tv/api.php?id=szws4k
 江苏卫视4K,http://106.53.99.30/tv/api.php?id=jsws4k
 东方卫视4K,http://106.53.99.30/tv/api.php?id=dfws4k
+苏州4K,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
+河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
+南国都市4K,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 峨眉电影4K,http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/emdy4k_8000.m3u8
 CCTV-兵器科技,http://www.lizhinas.top:1009/rtp/239.252.219.98:5140
 CCTV-世界地理,http://www.lizhinas.top:1009/rtp/239.252.219.93:5140
@@ -95,14 +98,6 @@ CHC动作电影HD,http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/li
 北京纪实科教8K,http://101.35.240.114:88/brtv8k.php
 CGTN英语,https://0472.org/hls/cgtn.m3u8
 CGTN纪录,https://0472.org/hls/cgtnd.m3u8
-香港国际卫视,http://106.53.99.30/tv/hk.php?id=HKI
-凤凰资讯高清,http://106.53.99.30/tv/hk.php?id=fhzx
-凤凰电影标清,http://106.53.99.30/tv/hk.php?id=fhdy
-凤凰电影标清,http://106.53.99.30/tv/hk.php?id=fhdy1
-凤凰资讯高清,http://106.53.99.30/tv/hk.php?id=fhzx1
-凤凰资讯高清,http://106.53.99.30/tv/hk.php?id=fhzx2
-无线翡翠高清,http://106.53.99.30/tv/hk.php?id=fct
-无线明珠高清,http://106.53.99.30/tv/hk.php?id=mzt
 鳳凰衛視中文台,http://bxtv.3a.ink/api.php?id=fhzw
 鳳凰衛視資訊台,http://bxtv.3a.ink/api.php?id=fhzx
 鳳凰衛視香港台,http://bxtv.3a.ink/api.php?id=fhhk
@@ -111,8 +106,9 @@ CGTN纪录,https://0472.org/hls/cgtnd.m3u8
 myTV SUPER 18台,http://bxtv.3a.ink/api.php?id=18
 PopC,http://bxtv.3a.ink/api.php?id=popc
 NOW新闻,http://bxtv.3a.ink/api.php?id=now
+NOW爆谷,https://bxtv.3a.ink/api.php?id=baogu
+NOW爆谷星影台,https://bxtv.3a.ink/api.php?id=xingying
 中天新聞台,http://bxtv.3a.ink/api.php?id=ztxw
-广东体育,http://bxtv.3a.ink/api.php?id=gdty
 凤凰资讯高清,http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pin72.flv
 星空国际,http://iot-mqqt.111yao.cn:8080/live/diyp_starmovies.m3u8
 澳视澳门,http://php.jdshipin.com/TVOD/iptv.php?id=asam
@@ -281,7 +277,7 @@ NewTV 海外剧场,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com
 少年包青天第一部,http://www.douzhicloud.site:35455/yy/1356043677
 少年包青天第三部,http://www.douzhicloud.site:35455/yy/1382736814
 神探狄仁杰第一部,http://www.douzhicloud.site:35455/huya/11352958
-神探狄仁杰第二部,http://www.douzhicloud.site:35455/douyu/431460
+神探狄仁杰第二部,http://www.douzhicloud.site:35455/douyu/6027991
 亮剑,http://www.douzhicloud.site:35455/huya/30080238
 特种兵之火凤凰,http://www.douzhicloud.site:35455/huya/29982636
 庆余年,http://www.douzhicloud.site:35455/huya/11352960
@@ -300,8 +296,8 @@ NewTV 海外剧场,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com
 梦中的那片海,http://www.douzhicloud.site:35455/huya/26355765
 欢乐颂,http://www.douzhicloud.site:35455/yy/1382735624
 如懿传,http://www.douzhicloud.site:35455/huya/29465868
-无心法师,http://www.douzhicloud.site:35455/huya/30080233
 活佛济公3,http://www.douzhicloud.site:35455/huya/23903123
+无心法师,http://www.douzhicloud.site:35455/huya/30080233
 谈判专家,http://www.douzhicloud.site:35455/yy/1382735560
 法政先锋,http://www.douzhicloud.site:35455/huya/23863804
 野蛮亲家,http://www.douzhicloud.site:35455/huya/23863796
