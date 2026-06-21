@@ -1,7 +1,8 @@
 🕘️更新时间,#genre#
-2026-06-21 20:24:37,https://iptv.catvod.com/live.php?token=9ab6748229af34abd9d891cc8e14672da313b504f09fa5ebb8a67318be034025&id=CCTV1&line=18
+2026-06-22 07:29:20,http://198.204.240.250:82/live/cctv1.m3u8
 
 央视频道,#genre#
+CCTV-1,http://198.204.240.250:82/live/cctv1.m3u8
 CCTV-1,https://iptv.catvod.com/live.php?token=9ab6748229af34abd9d891cc8e14672da313b504f09fa5ebb8a67318be034025&id=CCTV1&line=18
 CCTV-2,https://iptv.catvod.com/live.php?token=9ab6748229af34abd9d891cc8e14672da313b504f09fa5ebb8a67318be034025&id=CCTV2&line=13
 CCTV-3,https://iptv.catvod.com/live.php?token=9ab6748229af34abd9d891cc8e14672da313b504f09fa5ebb8a67318be034025&id=CCTV3&line=5
@@ -11,6 +12,7 @@ CCTV-5,https://iptv.catvod.com/live.php?token=9ab6748229af34abd9d891cc8e14672da3
 CCTV-5,http://198.204.228.26/live/cctv5p.m3u8
 CCTV-5+,https://iptv.catvod.com/live.php?id=CCTV-5plus
 CCTV-6,https://iptv.catvod.com/live.php?token=9ab6748229af34abd9d891cc8e14672da313b504f09fa5ebb8a67318be034025&id=CCTV6&line=7
+CCTV-7,https://iptv.catvod.com/catvod?id=CCTV7&line=9
 CCTV-8,https://iptv.catvod.com/live.php?token=9ab6748229af34abd9d891cc8e14672da313b504f09fa5ebb8a67318be034025&id=CCTV8&line=13
 CCTV-9,https://iptv.catvod.com/live.php?token=9ab6748229af34abd9d891cc8e14672da313b504f09fa5ebb8a67318be034025&id=CCTV9&line=4
 CCTV-10,https://iptv.catvod.com/live.php?id=CCTV10&line=5
@@ -23,7 +25,9 @@ CCTV-14,https://iptv.catvod.com/live.php?token=9ab6748229af34abd9d891cc8e14672da
 CCTV-15,https://iptv.catvod.com/live.php?token=9ab6748229af34abd9d891cc8e14672da313b504f09fa5ebb8a67318be034025&id=CCTV15&line=5
 CCTV-15,http://192.151.150.154/live/cctv15hd.m3u8
 CCTV-16,rtmp://ayrtsocndali.v.myalicdn.com/ayocnd/4kcctv16_2pd
+CCTV-16,https://iptv.catvod.com/catvod?id=CCTV16%E5%A5%A5%E6%9E%97%E5%8C%B9%E5%85%8B&line=1
 CCTV-16,http://82.156.243.185:36888/av3a/cctv16n.m3u8
+CCTV-17,https://iptv.catvod.com/live.php?token=9ab6748229af34abd9d891cc8e14672da313b504f09fa5ebb8a67318be034025&id=CCTV17&line=13
 CETV-1,http://198.204.228.26/live/cetv1hd.m3u8
 CETV-2,https://iptv.catvod.com/live.php?token=9ab6748229af34abd9d891cc8e14672da313b504f09fa5ebb8a67318be034025&id=CETV2&line=3
 CETV-4,https://iptv.catvod.com/live.php?token=9ab6748229af34abd9d891cc8e14672da313b504f09fa5ebb8a67318be034025&id=CETV4&line=4
@@ -68,9 +72,10 @@ CETV-4,https://iptv.catvod.com/live.php?token=9ab6748229af34abd9d891cc8e14672da3
 内蒙古卫视,https://iptv.catvod.com/live.php?token=9ab6748229af34abd9d891cc8e14672da313b504f09fa5ebb8a67318be034025&id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86&line=2
 厦门卫视,https://iptv.catvod.com/catvod.php?id=xmws
 宁夏卫视,https://iptv.catvod.com/live.php?token=9ab6748229af34abd9d891cc8e14672da313b504f09fa5ebb8a67318be034025&id=%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86&line=9
-宁夏卫视,http://198.204.228.26/live/nxws.m3u8
 宁夏卫视,http://192.151.150.154/live/nxws.m3u8
+宁夏卫视,http://198.204.228.26/live/nxws.m3u8
 甘肃卫视,https://iptv.catvod.com/live.php?token=9ab6748229af34abd9d891cc8e14672da313b504f09fa5ebb8a67318be034025&id=%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86&line=3
+青海卫视,https://iptv.catvod.com/live.php?token=9ab6748229af34abd9d891cc8e14672da313b504f09fa5ebb8a67318be034025&id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86&line=4
 山西卫视,https://iptv.catvod.com/live.php?token=9ab6748229af34abd9d891cc8e14672da313b504f09fa5ebb8a67318be034025&id=%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86&line=3
 山西卫视,http://192.151.150.154/live/sxwshd.m3u8
 陕西卫视,https://iptv.catvod.com/live.php?token=9ab6748229af34abd9d891cc8e14672da313b504f09fa5ebb8a67318be034025&id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&line=5
@@ -88,12 +93,12 @@ CETV-4,https://iptv.catvod.com/live.php?token=9ab6748229af34abd9d891cc8e14672da3
 
 儿童专享,#genre#
 新动漫,https://iptv.catvod.com/live.php?token=9ab6748229af34abd9d891cc8e14672da313b504f09fa5ebb8a67318be034025&id=%E6%96%B0%E5%8A%A8%E6%BC%AB&line=6
-浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 
 数字电视,#genre#
 CHC家庭影院,https://iptv.catvod.com/live.php?token=9ab6748229af34abd9d891cc8e14672da313b504f09fa5ebb8a67318be034025&id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2&line=3
 CHC动作电影,https://iptv.catvod.com/live.php?token=9ab6748229af34abd9d891cc8e14672da313b504f09fa5ebb8a67318be034025&id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1&line=1
 CCTV电视指南,http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub
+欢笑剧场4K,https://live.264788.xyz/channel/huanxiaojuchang4k?streamid=c74f322efa6c238fc535a83f14f86677&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 快乐垂钓,https://iptv.catvod.com/live.php?token=9ab6748229af34abd9d891cc8e14672da313b504f09fa5ebb8a67318be034025&id=%E5%BF%AB%E4%B9%90%E5%9E%82%E9%92%93&line=8
 五星体育,https://iptv.catvod.com/live.php?id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2
 广东珠江,rtmp://116.63.53.136/live/gdzj
@@ -116,16 +121,16 @@ CCTV电视指南,http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub
 翡翠台,rtmp://nowast.net/live/yifatv-jade01
 翡翠台,rtmp://223.76.215.33/live/xaingjiaoge-jade
 翡翠台,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fct
-明珠台,https://mytv.cdn.loc.cc/o12.php?id=mzt
 明珠台,http://mytv.cdn.loc.cc/o12.php?id=mzt
-环球电视,http://utv1.hqtvzb.com:9999/hls/world.m3u8
+明珠台,https://mytv.cdn.loc.cc/o12.php?id=mzt
 
 中国台湾,#genre#
-TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
-民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 台视财经,http://74.91.26.218:82/live/ttvcj.m3u8
+纬来综合,http://free.cnlive.club/channel/581c693b.m3u8?q=111.170.171.148
+纬来日本,http://free.cnlive.club/channel/58197296.m3u8?q=111.170.171.148
 
 明星频道,#genre#
+周润发,http://74.91.26.218:82/live/vlzrf.m3u8
 
 电视剧,#genre#
 经典电影,rtmp://live.gxrb.com.cn/pull/red_movies_0501
@@ -138,6 +143,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 
 电影频道,#genre#
 湖南电影,http://218.77.84.102:85/tsfile/live/149/2005_1.m3u8?key=txiptv
+浙江教科影视,https://zwebl02.cztv.com/live/channel041080Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-9c4515bba4ac0ad426356b260449477f
 
 NewTV频道,#genre#
 
