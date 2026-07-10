@@ -1,10 +1,11 @@
 🕘️更新时间,#genre#
-2026-07-10 07:31:59,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.214:4220
+2026-07-10 20:44:40,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.214:4220
 
 央视频道,#genre#
 CCTV-4,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.214:4220
 CCTV-5,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.130:8004
 CCTV-6,http://204.12.221.218:8181/3m1080p/cctv6.m3u8
+CCTV-7,http://home.scanflove.com:7788/rtp/235.254.199.56:7980
 CCTV-9,http://198.204.228.26/live/cctv9hd.m3u8
 CCTV-9,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.62:8112
 CCTV-16,rtmp://ayrtsocndali.v.myalicdn.com/ayocnd/4kcctv16_2pd
@@ -13,18 +14,18 @@ CETV-1,http://198.204.228.26/live/cetv1hd.m3u8
 全国卫视,#genre#
 湖北卫视,http://192.151.150.154/live/hbwshd.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
+湖南卫视,http://vpn.famcloud.top:9878/rtp/239.3.1.132:8012
 北京卫视,http://192.151.150.154/live/bjwshd.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 浙江卫视,http://192.151.150.154/live/zjwshd.m3u8
-山东卫视,http://198.204.228.26/live/sdwshd.m3u8
 东方卫视,http://192.151.150.154/live/dfwshd.m3u8
 安徽卫视,http://192.151.150.154/live/ahwshd.m3u8
 广东卫视,http://192.151.150.154/live/gdwshd.m3u8
-贵州卫视,http://192.151.150.154/live/gzwshd.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 江苏卫视,http://192.151.150.154/live/jswshd.m3u8
 辽宁卫视,http://192.151.150.154/live/lnwshd.m3u8
 广西卫视,http://192.151.150.154/live/gxwshd.m3u8
+农林卫视,http://36.46.98.19:8025/rtp/239.112.205.26:5140
 黑龙江新闻法治,https://satellitepull.cnr.cn/live/wx32hljxwgb/playlist.m3u8
 上海第一财经,http://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
 上海第一财经,https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
@@ -34,18 +35,18 @@ CETV-1,http://198.204.228.26/live/cetv1hd.m3u8
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 
 数字电视,#genre#
-金鹰纪实,http://mingjd.cn:7077/rtp/239.3.1.58:8156
 CCTV电视指南,http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub
 欢笑剧场4K,https://live.264788.xyz/channel/huanxiaojuchang4k?streamid=c74f322efa6c238fc535a83f14f86677&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 广东珠江,rtmp://116.63.53.136/live/gdzj
 广东珠江,rtmp://118.145.86.104/live/gdzj
+四海钓鱼,http://120.76.248.139/live/bfgd/4200000229.m3u8
 都市剧场,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
-文物宝库,http://1.94.31.214/php/hntv.php?id=wwbk
 
 网络电视,#genre#
 
 香港澳门,#genre#
 凤凰中文,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fhzw
+凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
 凤凰资讯,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fhzx
 凤凰香港,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fhxg
 翡翠台,rtmp://nowast.net/live/yifatv-jade01
@@ -58,7 +59,6 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 民视,http://74.91.26.218:82/live/ftv.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 台视财经,http://74.91.26.218:82/live/ttvcj.m3u8
-纬来精彩,http://free.cnlive.club/channel/581c2f1a.m3u8?q=111.170.171.148
 
 明星频道,#genre#
 周润发,http://74.91.26.218:82/live/vlzrf.m3u8
