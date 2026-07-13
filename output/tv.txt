@@ -1,12 +1,11 @@
 🕘️更新时间,#genre#
-2026-07-13 20:52:51,http://113.65.7.6:7088/udp/239.77.1.158:5146
+2026-07-14 07:17:00,http://113.65.7.6:7088/udp/239.77.1.158:5146
 
 央视频道,#genre#
 CCTV-2,http://113.65.7.6:7088/udp/239.77.1.158:5146
-CCTV-3,http://113.65.7.6:7088/udp/239.77.0.169:5146
-CCTV-4,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.214:4220
-CCTV-5,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.130:8004
+CCTV-5+,http://www.wjyu.top:4022/rtp/233.18.204.67:5140
 CCTV-6,http://204.12.221.218:8181/3m1080p/cctv6.m3u8
+CCTV-6,http://101.66.198.115:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-6,http://113.65.7.6:7088/udp/239.77.0.171:5146
 CCTV-7,http://113.65.7.6:7088/udp/239.77.0.138:5146
 CCTV-9,http://198.204.228.26/live/cctv9hd.m3u8
@@ -14,7 +13,6 @@ CCTV-10,http://113.65.7.6:7088/udp/239.77.1.113:5146
 CCTV-14,http://113.65.7.6:7088/udp/239.77.1.161:5146
 CCTV-16,rtmp://ayrtsocndali.v.myalicdn.com/ayocnd/4kcctv16_2pd
 CETV-1,http://198.204.228.26/live/cetv1hd.m3u8
-CETV-4,http://tv.zhangzp.top:4022/udp/239.125.1.110:4120
 
 全国卫视,#genre#
 湖北卫视,http://192.151.150.154/live/hbwshd.m3u8
@@ -23,7 +21,6 @@ CETV-4,http://tv.zhangzp.top:4022/udp/239.125.1.110:4120
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 浙江卫视,http://192.151.150.154/live/zjwshd.m3u8
 山东卫视,http://198.204.228.26/live/sdwshd.m3u8
-深圳卫视,http://113.65.7.6:7088/udp/239.77.1.3:5146
 东方卫视,http://192.151.150.154/live/dfwshd.m3u8
 安徽卫视,https://live.264788.xyz/channel/anhuiweishi?streamid=b6434e5bd6899466846bd37f7c67a1f4&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 广东卫视,http://192.151.150.154/live/gdwshd.m3u8
@@ -33,17 +30,20 @@ CETV-4,http://tv.zhangzp.top:4022/udp/239.125.1.110:4120
 江苏卫视,http://192.151.150.154/live/jswshd.m3u8
 辽宁卫视,http://192.151.150.154/live/lnwshd.m3u8
 广西卫视,http://192.151.150.154/live/gxwshd.m3u8
+海南卫视,https://live.264788.xyz/channel/hainanweishi?streamid=22a384055e4a94909e17012c852ac26d&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 海南卫视,http://wmh.wmh.ink:6633/rtp/239.253.43.35:5146
 海南卫视,http://alist.guangyuan.site:8188/rtp/239.253.43.35:5146
+宁夏卫视,https://live.264788.xyz/channel/ningxiaweishi?streamid=1b2952717a920173e66d4a348f9dcb5c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 黑龙江新闻法治,https://satellitepull.cnr.cn/live/wx32hljxwgb/playlist.m3u8
 上海第一财经,http://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
 上海第一财经,https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
 
 儿童专享,#genre#
-卡酷少儿,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.189:8000
-浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 
 数字电视,#genre#
+金鹰纪实,http://mingjd.cn:7077/rtp/239.3.1.58:8156
+CCTV电视指南,http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub
+欢笑剧场4K,https://live.264788.xyz/channel/huanxiaojuchang4k?streamid=c74f322efa6c238fc535a83f14f86677&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 广东珠江,rtmp://116.63.53.136/live/gdzj
 广东珠江,rtmp://118.145.86.104/live/gdzj
 都市剧场,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
@@ -58,11 +58,13 @@ CETV-4,http://tv.zhangzp.top:4022/udp/239.125.1.110:4120
 翡翠台,rtmp://223.76.215.33/live/xaingjiaoge-jade
 翡翠台,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fct
 翡翠台,http://everydaytv.top/live/ggiptv/jade/playlist.m3u8
+环球电视,http://utv1.hqtvzb.com:9999/hls/world.m3u8
 
 中国台湾,#genre#
 东森电影,http://rihou.cc:555/tv/东森电影
 台视财经,http://74.91.26.218:82/live/ttvcj.m3u8
-纬来日本,http://free.cnlive.club/channel/58197296.m3u8?q=111.170.171.148
+纬来精彩,http://free.cnlive.club/channel/581c2f1a.m3u8?q=111.170.171.148
+纬来体育,http://free.cnlive.club/channel/5816d06e.m3u8?q=111.170.171.148
 
 明星频道,#genre#
 周润发,http://74.91.26.218:82/live/vlzrf.m3u8
@@ -77,6 +79,8 @@ CETV-4,http://tv.zhangzp.top:4022/udp/239.125.1.110:4120
 体育专区,#genre#
 
 电影频道,#genre#
+湖南电影,http://218.77.84.102:85/tsfile/live/149/2005_1.m3u8?key=txiptv
+浙江教科影视,https://zwebl02.cztv.com/live/channel041080Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-9c4515bba4ac0ad426356b260449477f
 
 NewTV频道,#genre#
 
