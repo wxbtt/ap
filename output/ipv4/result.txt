@@ -1,8 +1,14 @@
 🕘️更新时间,#genre#
-2026-07-21 20:07:39,http://198.204.228.26/live/cctv9hd.m3u8
+2026-07-22 07:18:44,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.214:4220
 
 央视频道,#genre#
+CCTV-4,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.214:4220
+CCTV-5,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.130:8004
+CCTV-5+,http://www.wjyu.top:4022/rtp/233.18.204.67:5140
+CCTV-5+,http://youngx.top:4022/rtp/233.18.204.67:5140
+CCTV-7,http://home.scanflove.com:7788/rtp/235.254.199.56:7980
 CCTV-9,http://198.204.228.26/live/cctv9hd.m3u8
+CCTV-9,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.62:8112
 CCTV-11,http://173.208.212.130:8181/1080p/cctv11.m3u8
 CCTV-13,http://74.91.26.218:82/live/ctsnews.m3u8
 CCTV-13,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
@@ -11,8 +17,8 @@ CETV-1,http://198.204.228.26/live/cetv1hd.m3u8
 CETV-4,http://tv.zhangzp.top:4022/udp/239.125.1.110:4120
 
 全国卫视,#genre#
-湖北卫视,http://173.208.212.130:8181/1080p/hbws.m3u8
 湖北卫视,http://192.151.150.154/live/hbwshd.m3u8
+湖北卫视,http://173.208.212.130:8181/1080p/hbws.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://173.208.212.130:8181/1080p/bjws.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
@@ -21,8 +27,8 @@ CETV-4,http://tv.zhangzp.top:4022/udp/239.125.1.110:4120
 深圳卫视,http://173.208.212.130:8181/1080p/szws.m3u8
 东方卫视,http://192.151.150.154/live/dfwshd.m3u8
 东南卫视,http://173.208.212.130:8181/1080p/dnws.m3u8
-广东卫视,http://192.151.150.154/live/gdwshd.m3u8
 广东卫视,http://173.208.212.130:8181/1080p/gdws.m3u8
+广东卫视,http://192.151.150.154/live/gdwshd.m3u8
 贵州卫视,http://192.151.150.154/live/gzwshd.m3u8
 黑龙江卫视,http://173.208.212.130:8181/1080p/hljws.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
@@ -30,20 +36,26 @@ CETV-4,http://tv.zhangzp.top:4022/udp/239.125.1.110:4120
 辽宁卫视,http://173.208.212.130:8181/1080p/lnws.m3u8
 辽宁卫视,http://192.151.150.154/live/lnwshd.m3u8
 广西卫视,http://192.151.150.154/live/gxwshd.m3u8
-海南卫视,http://alist.guangyuan.site:8188/rtp/239.253.43.35:5146
 海南卫视,http://ds3622.guangyuan.site:8188/rtp/239.253.43.35:5146
+海南卫视,http://alist.guangyuan.site:8188/rtp/239.253.43.35:5146
+海南卫视,http://wmh.wmh.ink:6633/rtp/239.253.43.35:5146
 黑龙江新闻法治,https://satellitepull.cnr.cn/live/wx32hljxwgb/playlist.m3u8
 上海第一财经,http://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
 上海第一财经,https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
 
 儿童专享,#genre#
+卡酷少儿,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.189:8000
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 
 数字电视,#genre#
-欢笑剧场4K,https://live.264788.xyz/channel/huanxiaojuchang4k?streamid=c74f322efa6c238fc535a83f14f86677&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+金鹰纪实,http://mingjd.cn:7077/rtp/239.3.1.58:8156
+CCTV电视指南,http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub
 广东珠江,rtmp://116.63.53.136/live/gdzj
 广东珠江,rtmp://118.145.86.104/live/gdzj
+广东珠江,http://lsa.familyds.com:8188/rtp/239.77.0.1:5146
+四海钓鱼,http://120.76.248.139/live/bfgd/4200000229.m3u8
 都市剧场,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
+新视觉,http://120.76.248.139/live/bfgd/4200000249.m3u8
 
 网络电视,#genre#
 
@@ -54,13 +66,12 @@ CETV-4,http://tv.zhangzp.top:4022/udp/239.125.1.110:4120
 翡翠台,rtmp://nowast.net/live/yifatv-jade01
 翡翠台,rtmp://223.76.215.33/live/xaingjiaoge-jade
 翡翠台,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fct
-无线新闻台,http://free.cnlive.club/channel/n3fad9608.m3u8
+环球电视,http://utv1.hqtvzb.com:9999/hls/world.m3u8
 
 中国台湾,#genre#
 中天新闻,http://free.cnlive.club/channel/41d8a09d/index.m3u8?q=1760217407316
 寰宇新闻,http://free.cnlive.club/channel/n43c34be8.m3u8?q=111.170.171.148
 年代新闻,http://free.cnlive.club/channel/49184630.m3u8
-TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 东森电影,http://rihou.cc:555/tv/东森电影
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 台视财经,http://74.91.26.218:82/live/ttvcj.m3u8
