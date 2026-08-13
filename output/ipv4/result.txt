@@ -1,12 +1,14 @@
 🕘️更新时间,#genre#
-2026-08-13 19:28:06,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.214:4220
+2026-08-14 07:04:49,http://lsa.familyds.com:8188/rtp/239.77.1.163:5146
 
 央视频道,#genre#
+CCTV-4,http://lsa.familyds.com:8188/rtp/239.77.1.163:5146
 CCTV-4,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.214:4220
 CCTV-5,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.130:8004
+CCTV-8,http://lsa.familyds.com:8188/rtp/239.77.1.10:5146
 CCTV-9,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.62:8112
-CCTV-13,http://74.91.26.218:82/live/ctsnews.m3u8
 CCTV-13,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+CCTV-13,http://74.91.26.218:82/live/ctsnews.m3u8
 CCTV-16,rtmp://ayrtsocndali.v.myalicdn.com/ayocnd/4kcctv16_2pd
 CCTV-17,https://live.264788.xyz/channel/cctv17?streamid=f9c36f1e95b5b35eac89cc89583e7c0a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
@@ -15,20 +17,28 @@ CCTV-17,https://live.264788.xyz/channel/cctv17?streamid=f9c36f1e95b5b35eac89cc89
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 浙江卫视,http://192.151.150.154/live/zjwshd.m3u8
+重庆卫视,http://home.szjim.top:4000/udp/239.77.1.162:5146
+东方卫视,http://home.szjim.top:4000/udp/239.77.1.218:5146
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
+吉林卫视,http://home.szjim.top:4000/udp/239.77.1.111:5146
 江苏卫视,http://192.151.150.154/live/jswshd.m3u8
 辽宁卫视,http://173.208.212.130:8181/1080p/lnws.m3u8
+云南卫视,http://home.szjim.top:4000/udp/239.253.43.37:5146
+河南卫视,http://home.szjim.top:4000/udp/239.77.1.229:5146
 广西卫视,http://192.151.150.154/live/gxwshd.m3u8
+广西卫视,http://home.szjim.top:4000/udp/239.253.43.36:5146
+海南卫视,http://home.szjim.top:4000/udp/239.253.43.35:5146
 海南卫视,http://alist.guangyuan.site:8188/rtp/239.253.43.35:5146
 海南卫视,http://ds3622.guangyuan.site:8188/rtp/239.253.43.35:5146
 海南卫视,http://lbyjlt.vv5678.cn:8880/rtp/239.253.43.35:5146
 海南卫视,http://www.sclvip.top:5566/rtp/239.49.8.83:8000
 内蒙古卫视,https://live.264788.xyz/channel/neimengguweishi?streamid=81a015dbecf3031d7d847b7a9b059f67&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 甘肃卫视,https://live.264788.xyz/channel/gansuweishi?streamid=14e80bbc950736ab9b3f425be0eac464&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+甘肃卫视,http://home.szjim.top:4000/udp/239.77.0.189:5146
 黑龙江新闻法治,https://satellitepull.cnr.cn/live/wx32hljxwgb/playlist.m3u8
 上海新闻综合,https://live.264788.xyz/channel/shanghaixinwenzonghe?streamid=6f4b191d0930fafab8274665578e1df8&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-上海第一财经,https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
 上海第一财经,http://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
+上海第一财经,https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
 优漫卡通频道,https://live.264788.xyz/channel/youmankatong?streamid=206ebfa84b6cb4c35bec09920b86f4bf&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
 儿童专享,#genre#
@@ -46,11 +56,10 @@ CCTV-17,https://live.264788.xyz/channel/cctv17?streamid=f9c36f1e95b5b35eac89cc89
 广东珠江,rtmp://116.63.53.136/live/gdzj
 广东珠江,rtmp://118.145.86.104/live/gdzj
 广东珠江,http://home.szjim.top:4000/rtp/239.77.0.1:5146
+广东珠江,http://lsa.familyds.com:8188/rtp/239.77.0.1:5146
 睛彩竞技,https://live.264788.xyz/channel/jingcaijingji?streamid=cffe5950999e75e007bd4a9f450fcf3b&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 睛彩篮球,https://live.264788.xyz/channel/jingcailanqiu?streamid=40e579f6c4fc2784fadd3338b2de8b93&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-四海钓鱼,http://120.76.248.139/live/bfgd/4200000229.m3u8
 都市剧场,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
-新视觉,http://120.76.248.139/live/bfgd/4200000249.m3u8
 
 网络电视,#genre#
 动作电影,https://live.264788.xyz/channel/newtvdongzuodianying?streamid=dc4df8b22f3ce9e79832bdd91cd7ea76&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
@@ -71,7 +80,6 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 民视第一,http://74.91.26.218:82/live/ftvdy.m3u8
 台视财经,http://74.91.26.218:82/live/ttvcj.m3u8
-龙华偶像,http://31.43.191.125:8080/VIP019301734188047280/7bce5254f13d/34830
 
 明星频道,#genre#
 周润发,http://74.91.26.218:82/live/vlzrf.m3u8
@@ -86,7 +94,9 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 体育专区,#genre#
 
 电影频道,#genre#
+湖南电影,http://218.77.84.102:85/tsfile/live/149/2005_1.m3u8?key=txiptv
 佛山影视,http://45.192.97.170:8880/play/947.m3u8
+辽宁影视剧,http://120.76.248.139/live/bfgd/4200000070.m3u8
 
 NewTV频道,#genre#
 
