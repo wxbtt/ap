@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/wxbtt/ap/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="🕘️更新时间",2026-10-10 09:52:12
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="🕘️更新时间",2026-10-11 00:04:39
 https://live.264788.xyz/channel/cctv1?streamid=40cf2f40582b104fb087535f9601ea19&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="央视频道",CCTV-1
 https://live.264788.xyz/channel/cctv1?streamid=40cf2f40582b104fb087535f9601ea19&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
@@ -43,6 +43,8 @@ https://live.264788.xyz/channel/cctv17?streamid=f9c36f1e95b5b35eac89cc89583e7c0a
 https://live.264788.xyz/channel/cetv1?streamid=f4b36de9e0ed50412e1fe3fbed4262a8&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="CETV1.png" group-title="央视频道",CETV-1
 http://154.12.37.196:5555/tvbox/公众号好享生活小助手/接口获取/代理.php?id=http://38.75.136.137:82/live1/jsb1.m3u8?id=cetv1hd&usign=
+#EXTINF:-1 tvg-name="CETV1" tvg-logo="CETV1.png" group-title="央视频道",CETV-1
+http://38.75.136.137:98/gslb/dsdqbv/cetv1hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="CETV1.png" group-title="央视频道",CETV-1
 https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8
 #EXTINF:-1 tvg-name="CETV2" tvg-logo="CETV2.png" group-title="央视频道",CETV-2
@@ -103,6 +105,8 @@ https://live.264788.xyz/channel/heilongjiangweishi?streamid=43810153d9094bbea29e
 https://live.264788.xyz/channel/jilinweishi?streamid=3a5e52dadf63aa29839e641b0a25a563&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="江苏卫视.png" group-title="全国卫视",江苏卫视
 https://live.264788.xyz/channel/jiangsuweishi?streamid=532885846757ddf8f597ab4a3ca7101e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="江苏卫视.png" group-title="全国卫视",江苏卫视
+http://192.151.150.154/live/jswshd.m3u8
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="江西卫视.png" group-title="全国卫视",江西卫视
 https://live.264788.xyz/channel/jiangxiweishi?streamid=897ad7cbdfb0a1094f790d040b5dfa31&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="辽宁卫视.png" group-title="全国卫视",辽宁卫视
@@ -124,7 +128,7 @@ https://live.264788.xyz/channel/xizangweishi?streamid=4b4e8ea919f1cfd5e43deed1d1
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="海南卫视.png" group-title="全国卫视",海南卫视
 https://live.264788.xyz/channel/hainanweishi?streamid=381740134eacf3b0876961bcef3249e2&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="海南卫视.png" group-title="全国卫视",海南卫视
-http://alist.guangyuan.site:8188/rtp/239.253.43.35:5146
+http://home.szjim.top:4000/udp/239.253.43.35:5146
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="海南卫视.png" group-title="全国卫视",海南卫视
 http://ds3622.guangyuan.site:8188/rtp/239.253.43.35:5146
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="海南卫视.png" group-title="全国卫视",海南卫视
@@ -159,6 +163,8 @@ http://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
 https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
 #EXTINF:-1 tvg-name="江苏国际" tvg-logo="江苏国际.png" group-title="全国卫视",江苏国际
 http://t.061899.xyz/tl/dq.php?id=jsgj
+#EXTINF:-1 tvg-name="江苏教育" tvg-logo="江苏教育.png" group-title="全国卫视",江苏教育
+http://t.061899.xyz/tl/dq.php?id=jsjy
 #EXTINF:-1 tvg-name="优漫卡通频道" tvg-logo="优漫卡通频道.png" group-title="全国卫视",优漫卡通频道
 https://live.264788.xyz/channel/youmankatong?streamid=206ebfa84b6cb4c35bec09920b86f4bf&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="卡酷少儿.png" group-title="儿童专享",卡酷少儿
@@ -179,6 +185,8 @@ http://t.061899.xyz/tl/dq.php?id=yxfy
 http://t.061899.xyz/tl/dq.php?id=ly
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="CHC家庭影院.png" group-title="数字电视",CHC家庭影院
 https://live.264788.xyz/channel/chcjiatingyingyuan?streamid=136f530a61d26dc0f670f39f05291586&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="CHC动作电影.png" group-title="数字电视",CHC动作电影
+http://154.12.37.196:5555/tvbox/公众号好享生活小助手/接口获取/代理.php?id=http://38.75.136.137:82/live1/jsb1.m3u8?id=chcdz&usign=
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="欢笑剧场.png" group-title="数字电视",欢笑剧场
 https://live.264788.xyz/channel/huanxiaojuchang4k?streamid=cbedb39bb41035264ac140fba7a43073&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="欢笑剧场.png" group-title="数字电视",欢笑剧场
@@ -199,24 +207,26 @@ rtmp://118.145.86.104/live/gdzj
 http://74.91.26.218:82/live/gdzj.m3u8
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="广东珠江.png" group-title="数字电视",广东珠江
 http://173.208.234.146/live/gdzj.m3u8
-#EXTINF:-1 tvg-name="广东珠江" tvg-logo="广东珠江.png" group-title="数字电视",广东珠江
-http://home.szjim.top:4000/rtp/239.77.0.1:5146
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="睛彩竞技.png" group-title="数字电视",睛彩竞技
 https://live.264788.xyz/channel/jingcaijingji?streamid=cffe5950999e75e007bd4a9f450fcf3b&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="睛彩篮球.png" group-title="数字电视",睛彩篮球
 https://live.264788.xyz/channel/jingcailanqiu?streamid=40e579f6c4fc2784fadd3338b2de8b93&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="睛彩篮球.png" group-title="数字电视",睛彩篮球
+http://192.187.124.34:81/live/jclq.m3u8
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="睛彩篮球.png" group-title="数字电视",睛彩篮球
 http://121.10.7.16:4000/rtp/239.77.1.21:5146
 #EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="四海钓鱼.png" group-title="数字电视",四海钓鱼
 http://t.061899.xyz/tl/dq.php?id=shdy
 #EXTINF:-1 tvg-name="都市剧场" tvg-logo="都市剧场.png" group-title="数字电视",都市剧场
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dsjchd
-#EXTINF:-1 tvg-name="都市剧场" tvg-logo="都市剧场.png" group-title="数字电视",都市剧场
 http://154.12.37.196:5555/tvbox/公众号好享生活小助手/接口获取/代理.php?id=http://38.75.136.137:82/live1/jsb1.m3u8?id=dsjchd&usign=
+#EXTINF:-1 tvg-name="都市剧场" tvg-logo="都市剧场.png" group-title="数字电视",都市剧场
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dsjchd
 #EXTINF:-1 tvg-name="都市剧场" tvg-logo="都市剧场.png" group-title="数字电视",都市剧场
 https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
 #EXTINF:-1 tvg-name="新视觉" tvg-logo="新视觉.png" group-title="数字电视",新视觉
 http://120.76.248.139/live/bfgd/4200000249.m3u8
+#EXTINF:-1 tvg-name="天元围棋" tvg-logo="天元围棋.png" group-title="数字电视",天元围棋
+http://121.10.7.16:4000/rtp/239.253.43.98:5146
 #EXTINF:-1 tvg-name="上视纪实人文" tvg-logo="上视纪实人文.png" group-title="数字电视",上视纪实人文
 http://t.061899.xyz/tl/dq.php?id=shjsrw
 #EXTINF:-1 tvg-name="爱体育" tvg-logo="爱体育.png" group-title="网络电视",爱体育
@@ -249,18 +259,18 @@ http://110.235.82.60:8001/bysid/1
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 #EXTINF:-1 tvg-name="民视" tvg-logo="民视.png" group-title="中国台湾",民视
 http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
-#EXTINF:-1 tvg-name="民视第一" tvg-logo="民视第一.png" group-title="中国台湾",民视第一
-http://74.91.26.218:82/live/ftvdy.m3u8
+#EXTINF:-1 tvg-name="民视" tvg-logo="民视.png" group-title="中国台湾",民视
+http://31.43.191.125:8080/restream/restream/34862
 #EXTINF:-1 tvg-name="周润发" tvg-logo="周润发.png" group-title="明星频道",周润发
 http://74.91.26.218:82/live/vlzrf.m3u8
+#EXTINF:-1 tvg-name="封神榜" tvg-logo="封神榜.png" group-title="电视剧",封神榜
+https://huyazhibo.de5.net/?id=29465849
 #EXTINF:-1 tvg-name="经典电影" tvg-logo="经典电影.png" group-title="电视剧",经典电影
 rtmp://live.gxrb.com.cn/pull/red_movies_0501
 #EXTINF:-1 tvg-name="父母爱情" tvg-logo="父母爱情.png" group-title="电视剧",父母爱情
 http://luobo.bkpcp.top/yy/1354926650
 #EXTINF:-1 tvg-name="西游记后传" tvg-logo="西游记后传.png" group-title="电视剧",西游记后传
 http://luobo.bkpcp.top/yy/1353392400
-#EXTINF:-1 tvg-name="伪装者" tvg-logo="伪装者.png" group-title="电视剧",伪装者
-http://luobo.bkpcp.top/yy/1354936244
 #EXTINF:-1 tvg-name="狂飙" tvg-logo="狂飙.png" group-title="电视剧",狂飙
 http://luobo.bkpcp.top/yy/1355142167
 #EXTINF:-1 tvg-name="知否知否" tvg-logo="知否知否.png" group-title="电视剧",知否知否
@@ -269,7 +279,13 @@ http://luobo.bkpcp.top/yy/21881901
 http://luobo.bkpcp.top/yy/1352475619
 #EXTINF:-1 tvg-name="末日电影合集" tvg-logo="末日电影合集.png" group-title="斗鱼轮播",末日电影合集
 http://luobo.bkpcp.top/yy/1354889019
+#EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="睛彩广场舞.png" group-title="体育专区",睛彩广场舞
+http://192.187.124.34:81/live/jcgcw.m3u8
+#EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="睛彩广场舞.png" group-title="体育专区",睛彩广场舞
+http://121.10.7.16:4000/rtp/239.77.1.23:5146
+#EXTINF:-1 tvg-name="东方影视" tvg-logo="东方影视.png" group-title="电影频道",东方影视
+http://154.12.37.196:5555/tvbox/公众号好享生活小助手/接口获取/代理.php?id=http://38.75.136.137:82/live1/jsb1.m3u8?id=shdsjhd&usign=
 #EXTINF:-1 tvg-name="江苏影视" tvg-logo="江苏影视.png" group-title="电影频道",江苏影视
 http://t.061899.xyz/tl/dq.php?id=jsys
-#EXTINF:-1 tvg-name="佛山影视" tvg-logo="佛山影视.png" group-title="电影频道",佛山影视
-http://45.192.97.170:8880/play/947.m3u8
+#EXTINF:-1 tvg-name="辽宁影视剧" tvg-logo="辽宁影视剧.png" group-title="电影频道",辽宁影视剧
+http://120.76.248.139/live/bfgd/4200000070.m3u8
